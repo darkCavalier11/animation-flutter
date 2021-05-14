@@ -26,3 +26,5 @@ AnimatedBuilder(
 the transform.rotate take here an angle which take value from animation that initialized before, which is dynamic and the widget rerenders for the duration and take the state from begin to end.
 
 some built in animation that hide these complexities (https://flutter.dev/docs/development/ui/widgets/animation "Built in animation widget")
+
+page transition can be done with custom page transitions.
